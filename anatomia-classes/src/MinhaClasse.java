@@ -1,10 +1,11 @@
 public class MinhaClasse {
     
    public static void main (String [] args) {
-    int ano = 2021;
-    
-    ano = 2022;
-    
-    final string BR = "Brasil";
+    string meuNome = "Dorany";
 
+    int anoFabricacao = 2022;
+
+    boolean verdadeira = true;
+
+    anoFabricacao = 2018;
 }
